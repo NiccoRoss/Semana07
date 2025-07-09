@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Weekgineer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="Lunes01">
+        Ceremonia de Inauguración&#10;
+    Hora: 09:00 horas&#10;
+    Lugar: Plazuela de la UNS&#10;
+    Invitados: Autoridades UNS, Delegaciones de las Escuelas Profesionales de la Facultad de Ingeniería, Colaboradores Administrativos, Docentes, Centros de Producción y Estudiantes&#10;
+    • Ceremonia de Inauguración de la semana del ingeniero&#10;
+    • Izamiento del pabellón nacional&#10;
+    • Brindis por las autoridades&#10;
+    • Compartir
+    </string>
+    <string name="Martes02">
+        Conferencias  Presenciales &#10;
+        Escuela Profesional de Ingeniería Agroindustrial &#10;
+        Hora: 8:00am - 10:15am&#10;
+        Lugar:  Auditorio EPIE &#10;
+        Escuela Profesional de Ingeniería Agronoma &#10;
+        Hora: 3:00pm - 6:00pm&#10;
+        Lugar:  Auditorio Ing. Agrónoma – Campus II &#10;
+        Escuela Profesional de Ingeniería de Sistemas e Informática &#10;
+        Hora: 3:00pm - 5:15pm&#10;
+        Lugar:  Auditorio EPIE  &#10;
+
+    </string>
+
+    <string name="Miercoles03">
+        Conferencias  Presenciales &#10;
+        Escuela Profesional de Ingeniería en Energía &#10;
+        Hora: 9:00am - 11:10am&#10;
+        Lugar:  Auditorio EPIE &#10;
+        Escuela Profesional de Ingeniería Mecánica &#10;
+        Hora: 3:00pm - 5:45pm&#10;
+        Lugar:  Auditorio EPIE  &#10;
+        Escuela Profesional de Ingeniería Civil  &#10;
+        Hora: 10:00am - 11:30am&#10;
+        Lugar:  Auditorio Biblioteca Central &#10;
+    </string>
+
+    <string name="Jueves04">
+        Misa de Celebración por la Semana de Ingeniería&#10;
+        Hora: 9:00 horas &#10;
+        Lugar: Capilla de la UNS &#10;
+        Invitados: DELEGACIONES DE LAS E.P. DE LA FACULTAD, &#10;
+        ADMINISTRATIVOS, DOCENTES, CENTROS DE PRODUCCIÓN&#10;
+        Ceremonia Central por la Celebración de la Semana &#10;
+        de Ingeniería
+        Hora: 10:00 horas &#10;
+        Lugar: Auditorio de Ingeniería en Energía &#10;
+        Corso Inter escuelas  &#10;
+        Hora: 15:00 horas &#10;
+        Lugar: Complejo deportivo UNS &#10;
+        Inicio: Puerta 1. Campus Universitario &#10;
+        Final: Complejo deportivo UNS &#10;
+        Partido de Fútbol de Confraternidad &#10;
+        Hora: 16:00 horas &#10;
+        Lugar: Complejo deportivo UNS &#10;
+        Partidos Inaugurales de Confraternidad: &#10;
+        Escuela Campeón 2024 vs Club UNS &#10;
+        Egresados Ingenieros Master 1 vs Egresados Ingenieros Master 2 &#10;
+    </string>
+
+    <string name="Viernes05">
+        Campeonato Interescuelas  &#10;
+        Hora: 09:00 horas. &#10;
+        Lugar: Complejo Deportivo – UNS &#10;
+        Eliminatorias Interescuela de la Facultad de Ingeniería: &#10;
+        Fútbol  &#10;
+        • Ing. Agrónoma vs Ing. Sistema  &#10;
+        • Ing. Mecánica vs Ing. Agroindustrial &#10;
+        • Ing. Energía vs Ing. Civil &#10;
+        Vóley (Tarde) &#10;
+        • Ing. Agrónoma vs Ing. Sistema  &#10;
+        • Ing. Mecánica vs Ing. Agroindustrial &#10;
+        • Ing. Energía vs Ing. Civil &#10;
+        Básquet (Mañana)  &#10;
+        • Ing. Energía vs Ing. Civil &#10;
+        • Ing. Mecánica vs Ing. Agroindustrial &#10;
+        • Ing. Agrónoma vs Ing. Sistema  &#10;
+        Compartir de Confraternidad: Almuerzo &#10;
+        Hora: 13:00 horas. &#10;
+        Lugar: Complejo deportivo – UNS &#10;
+        Compartir de confraternidad de la Facultad de Ingeniería por la &#10;
+        Semana de la Ingeniería &#10;
+        Hora: 14:00 horas. &#10;
+        Lugar: Complejo deportivo - UNS &#10;
+        Campeonato Fulbito inter escuelas de la Facultad de
+        Ingeniería - Docentes  &#10;
+        Final de Campeonato Interescuelas - Estudiantes &#10;
+        Horas: 15:00 horas &#10;
+        Lugar: Complejo Deportivo – UNS &#10;
+        Final del Campeonato Inter escuelas de Fútbol, Vóley y Básquet  &#10;
+        Premiación de Equipos Ganadores &#10;
+        Horas: 18:00 horas &#10;
+        Lugar: Complejo deportivo UNS &#10;
+        Premiación de los Equipos ganadores del Campeonato de con
+        fraternidad  &#10;
+        Clausura  &#10;
+        Horas: 18:15 horas &#10;
+        Lugar: Complejo deportivo UNS&#10;
+    </string>
+</resources>

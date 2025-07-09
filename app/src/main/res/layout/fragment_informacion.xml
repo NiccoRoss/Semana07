@@ -1,0 +1,52 @@
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="16dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+    <LinearLayout
+        android:id="@+id/textContainer"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Presentación"
+            android:textSize="30sp"
+            android:fontFamily="@font/lobster_regular"
+            android:textColor="@android:color/black"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="En el marco del ejercicio de la noble profesión en el Perú y en especial en la Facultad de Ingeniería de la Universidad Nacional del Santa, cada 8 de junio, se celebra el Día del Ingeniero, fecha en que los docentes, estudiantes y colaboradores administrativos santeños, que anhelan y se dedican a la ingeniería en todas sus ramas y vertientes, comparten y confraternizan a través de un conjunto de actividades académicas, culturales, religiosas y deportivas, con la única visión de buscar la integración, ser mejores cada día y líderes en la región y norte del país, razón por la cual, invitamos a toda la comunidad universitaria y sociedad en general a participar en el desarrollo del presente programa."
+            android:textSize="14sp"
+            android:fontFamily="serif"
+            android:textAlignment="center"
+            android:textColor="@android:color/black"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"/>
+    </LinearLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layoutManager="androidx.recyclerview.widget.GridLayoutManager"
+        app:spanCount="2"
+        app:layout_constraintTop_toBottomOf="@id/textContainer"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>
+
