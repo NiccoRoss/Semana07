@@ -25,8 +25,18 @@ La app permite a los estudiantes ver las actividades día por día con imágenes
 
 ## 📸 Capturas de pantalla
 
-_Añade aquí algunas imágenes si lo deseas._
+- **Login simple**
+![login](ingeweek/login.png)
 
+-**Main que incluye cardViews con MaterialDesign3**
+![main](ingeweek/main.png)
+
+-**Pantalla con Detail de los CardView**
+![detail](ingeweek/detail.png)
+
+![detail](ingeweek/detail2.png)
+
+![detail](ingeweek/detail3.png)
 ---
 
 ## 📦 Instalación
